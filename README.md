@@ -1,6 +1,6 @@
-### Regis do Python 👋
+### Bem vindo ao meu perfil !!! 👋
 
-I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely.
+Sou apaixonado por tecnologia e formado em Análise e Desenvolvimento de Systemas - 👨‍🎓👨‍💻
 
 - 😄 I’m Pythonist and youtuber.
 
@@ -11,8 +11,8 @@ I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely
 ### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/regis-da-silva-santos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rg3915)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rg3915/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/renato_vinicius_mattos/)
 
 <p>
   <a href="https://rg3915.github.io/"target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>

@@ -1,10 +1,10 @@
-### Bem vindo ao meu perfil !!! 👋
+# Bem vindo ao meu perfil !!! 👋
 
-Sou apaixonado por tecnologia e formado em Análise e Desenvolvimento de Systemas - 👨‍🎓👨‍💻
+## Sou apaixonado por tecnologia e formado em Análise e Desenvolvimento de Systemas - 👨‍🎓👨‍💻
 
-- 😄 I’m Pythonist and youtuber.
 
-<a href="https://www.youtube.com/regis-do-python"><img alt="youtube" src="https://img.shields.io/badge/youtube-e4505f?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+[comment]: <> <a href="https://www.youtube.com/regis-do-python"><img alt="youtube" src="https://img.shields.io/badge/youtube-e4505f?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <img align="right" src="fcf7fd0c619bb87706533079240915f3.gif" width="400px">
 

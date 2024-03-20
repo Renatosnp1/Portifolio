@@ -25,8 +25,11 @@ Analista de Sistemas com pós-graduação em Engenharia de Dados e apaixonado pe
 ### Stacks
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-d0bf00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Sql Server" src="https://img.shields.io/badge/SqlServer-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/CSharp-563D7C?style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img alt="C#" src="https://img.shields.io/badge/CSharp-563D7C?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Sql Server" src="https://img.shields.io/badge/SqlServer-FF0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="MySql" src="https://img.shields.io/badge/MySql-F57410?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-00684A?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 

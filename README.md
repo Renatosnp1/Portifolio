@@ -2,7 +2,9 @@
 
 
 
-### Sou apaixonado por tecnologia e formado em Análise e Desenvolvimento de Systemas - 👨‍🎓👨‍💻
+
+Analista de Sistemas com pós-graduação em Engenharia de Dados e apaixonado pelo universo da Inteligência Artificial e Análise de Dados. Minha jornada profissional é marcada pela constante busca por inovação e pela aplicação de tecnologias avançadas para resolver desafios complexos. Atualmente, estou me aprofundando no campo da IA e Análise de Dados, explorando novas fronteiras e expandindo meus conhecimentos para contribuir com soluções eficazes. Meu objetivo é utilizar minhas habilidades para impulsionar a transformação digital e gerar impacto significativo através de dados.
+
 
  <br>
  
